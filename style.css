@@ -1,0 +1,237 @@
+     * {
+    font-family: 'Lato', sans-serif;
+    }
+    .ihateuto {
+    background-color: rgba(229, 84, 115, 0.10);
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    }
+    #bg-img {
+    width: 600px;
+    height: 900px;
+    }
+    .heading {
+    font-size: 65px;
+    font-weight: 800;
+    color: #272727;
+    margin: 0;
+    }
+    .heading-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    }
+    .chainkhola {
+    padding: 20px 43px;
+    color: white;
+    border-style: none;
+    border-radius: 8px;
+    background: #E55473;
+    }
+    .features {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+    }
+    .features-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin: 0;
+    margin-bottom: 15px;
+    }
+    .features-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 30px;
+    }
+    .featured-item {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    }
+    .feature-img {
+    width: 310px;
+    height: 400px;
+    }
+    .feature-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    }
+    .feature-name {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: underline;
+    }
+    .flower-info {
+    width: 1055px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    }
+    .info-img {
+    width: 70px;
+    height: 70px;
+    }
+    .info-title {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    }
+    .info-box {
+    display: flex;
+    justify-content: center;
+    }
+    .hot-deal {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    padding: 50px;
+    margin-top: 100px;
+    }
+    .hotDeals-title {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin: 0;
+    }
+    .span {
+    color: #E55473;
+    }
+    .deal-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    }
+    .signup-btn {
+    display: flex;
+    justify-content: center;
+    }
+    .rickshaw {
+    width: 1055px;
+    margin: 0 auto;
+    margin-top: 50px;
+    }
+    .instagram-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    }
+    .instagram-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0;
+    }
+    .instagram-img {
+    width: 280px;
+    height: 330px;
+    }
+    .latest-deal {
+    width: 1150px;
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+    }
+    .latest-img {
+    width: 100%;
+    }
+    .search-box {
+    position: absolute;
+    top: 110px;
+    left: 300px;
+    right: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    }
+    .deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin: 0;
+    text-align: center;
+    }
+    .deal-description {
+    text-align: center;
+    }
+    .search-input {
+    width: 430px;
+    height: 40px;
+    border-radius: 8px;
+    background: #FFF;
+    border-style: none;
+    padding: 10px;
+    }
+    .footer {
+    background-color: black;
+    padding: 70px;
+    margin-top: 70px;
+    }
+    .footer-title {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    margin: 0;
+    }
+    .footer-sub-title {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    }
+    .footer-description {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
